@@ -4,7 +4,7 @@ if bit == '64bit':
     print('\n Your device is 64 bit')
     os.system('clear')
     os.system('git pull')
-    import BS1    
+    import file_create
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')
