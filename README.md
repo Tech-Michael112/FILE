@@ -1,10 +1,5 @@
 # FILE
-cd
-
 rm -rf FILE
-
-git clone --depth=1 https://github.com/Tech-Michael112
-
+git clone  https://github.com/Tech-Michael112/FILE
 cd FILE
-
 python FILE.py
